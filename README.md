@@ -1,5 +1,5 @@
-# SqlAlchemy SessionFactory Example
- Sql Alchemy ORM example with file and DB using python flask framework
+# SqlAlchemy SessionFactory Example with postgres database
+ Sql Alchemy ORM example with file and postgres database using python flask framework
  
  following instructions needs to be followed in order to test the API
  
